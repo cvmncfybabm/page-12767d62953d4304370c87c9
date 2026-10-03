@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "20dd8ffe3a5b622407c37b2f",
+  "owner": "cvmncfybabm",
+  "repo": "page-12767d62953d4304370c87c9",
+  "title": "Beryl",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "12767d62953d4304370c87c9",
+      "a": "Beryl",
+      "b": "",
+      "entity": "Beryl",
+      "brand": "Beryl",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d584d6477e5b39af9a122acc17fe83f741e442fc9a38fbf43c4ea98f94cccb3e",
+      "content": {
+        "keyword1": "Beryl",
+        "keyword2": "",
+        "primary_entity": "Beryl",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Beryl 是提供机场订阅与 VPN 客户端支持的网络加速官网，含基础版、旗舰版与团队版套餐，适用于办公、流媒体与游戏场景，支持多端导入与官方说明下载。",
+          "AI_DESCRIPTION": "Beryl 是提供机场订阅与 VPN 客户端支持的网络加速官网，含基础版、旗舰版与团队版套餐，适用于办公、流媒体与游戏场景，支持多端导入与官方说明下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px;-webkit-text-size-adjust:100%}body{font-family:system-ui,-apple-system,sans-serif;background:#f4f4f6;color:#1f2937;line-height:1.65}a{color:#6d28d9;text-decoration:none}header{background:#fff;border-bottom:1px solid #e5e7eb;padding:12px 16px}nav{display:flex;flex-wrap:wrap;gap:12px 16px;max-width:960px;margin:0 auto}main{max-width:960px;margin:0 auto;padding:20px 16px 40px}h1{font-size:1.85rem;color:#5b21b6;margin:16px 0 12px;font-weight:700}h2{font-size:1.35rem;color:#6d28d9;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #ddd6fe}h3{font-size:1.1rem;color:#4c1d95;margin:16px 0 8px}p,li{margin-bottom:10px}ul{padding-left:20px}.intro-grid,.plan-grid{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.intro-col,.plan-card{flex:1 1 280px;background:#fff;border:1px solid #e5e7eb;border-radius:10px;padding:18px}.plan-card.featured{border:2px solid #7c3aed;background:#faf5ff}.plan-name{font-size:1.2rem;font-weight:700;color:#5b21b6}.price{font-size:1.5rem;font-weight:700;color:#7c3aed;margin:8px 0}.annual{font-size:0.9rem;color:#6b7280}.badge{display:inline-block;background:#7c3aed;color:#fff;font-size:0.75rem;padding:2px 8px;border-radius:999px;margin-left:6px}details{background:#fff;border:1px solid #e5e7eb;border-radius:8px;padding:12px 16px;margin:10px 0}summary{font-weight:600;color:#4c1d95}.ad-box{background:#ede9fe;border:1px dashed #c4b5fd;padding:14px;text-align:center;margin:24px 0;border-radius:8px}footer{background:#e5e7eb;color:#4b5563;padding:24px 16px;font-size:0.875rem;text-align:center}footer a{margin:0 8px}.steps{background:#fff;padding:16px;border-radius:8px;border-left:4px solid #7c3aed}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#howto\">操作说明</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>Beryl 官方网站</h1><p>Beryl 专注全球网络加速与机场订阅服务，帮助用户稳定访问国际资源、解锁流媒体并优化游戏与办公体验。本站为 Beryl 官网，提供套餐说明、使用指引与客户端导入方式，便于将订阅用于各类加速器与梯子客户端。</p><section id=\"intro\"><h2>品牌简介</h2><div class=\"intro-grid\"><div class=\"intro-col\"><h3>可靠的机场订阅</h3><p>Beryl 以机场模式提供标准化订阅链接，兼容 Clash、Surge、Shadowrocket、Stash 等主流客户端。节点覆盖亚洲核心城市与欧美骨干线路，日常使用注重延迟与可用性，适合作为长期网络加速入口。</p></div><div class=\"intro-col\"><h3>面向个人与团队</h3><p>从轻度浏览到团队协作，Beryl 提供分级流量与设备额度。旗舰版加入 IPLC 专线游戏优化，团队版支持更多设备与定制路由需求，同一套订阅可在多端客户端中复用。</p></div></div><p>请通过本官网获取订阅，避免非官方渠道带来的安全与稳定性风险。Beryl 连接过程使用常见加密协议，说明与下载指引均集中在本页，便于对照操作。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>按需选择月付或年付。年付更优惠，流量按自然月重置。以下为官网当前公开档位，便于对照设备数、流量与线路能力。</p><div class=\"plan-grid\"><div class=\"plan-card\"><div class=\"plan-name\">基础版</div><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan-card featured\"><div class=\"plan-name\">旗舰版 <span class=\"badge\">推荐</span></div><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan-card\"><div class=\"plan-name\">团队版</div><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与远程协作</h3><p>访问海外文档、代码仓库、会议工具时保持连接稳定，减少超时。团队版适合多人共用同一套订阅策略，在各自客户端中导入同一机场链接即可协同。</p><h3>流媒体与内容访问</h3><p>旗舰及以上套餐强调原生解锁，便于观看常见国际流媒体平台。基础版覆盖常规网站与部分内容服务，适合以浏览和资料获取为主的用户。</p><h3>游戏与实时应用</h3><p>IPLC 优化线路针对延迟敏感场景，降低丢包。适合需要相对稳定海外线路的玩家与语音应用用户，可在客户端中单独为游戏进程指定节点。</p><h3>学习与资料检索</h3><p>学术站点、公开课程与技术文档访问更顺畅。Beryl 节点池按地区分流，便于选择较近出口，作为日常梯子与网络加速补充。</p></section><section id=\"howto\"><h2>操作说明</h2><div class=\"steps\"><h3>购买与获取订阅</h3><p>在官网选定套餐完成支付后，用户中心会生成专属订阅 URL。请妥善保存，勿公开分享以免流量被盗用。年付与月付均使用同一导入方式。</p><h3>导入客户端</h3><p>打开已安装的 Clash、Shadowrocket 等应用，选择从 URL 导入或订阅，粘贴 Beryl 提供的链接并更新节点列表。不同客户端菜单名称略有差异，但均为粘贴订阅地址后更新。</p><h3>选择节点并连接</h3><p>根据用途选择地区：浏览可选邻近亚洲节点，流媒体优先解锁标识线路，游戏可尝试 IPLC 或低延迟专线。连接后即可使用系统代理或分应用代理完成网络加速。</p><h3>日常维护</h3><p>建议定期更新订阅。若节点异常可切换备用线路或提交工单。流量将在每月同一日期重置，设备数以套餐同时在线上限为准。</p></div></section><section id=\"clients\"><h2>客户端下载</h2><p>Beryl 以订阅为核心，不强制绑定单一客户端。请从各平台官方渠道获取软件，再导入本站订阅。以下为常用方向，链接指向本页说明，实际安装包请以应用商店或项目发布页为准。</p><ul><li><a href=\"#clients\">Windows / macOS</a>：Clash Verge、Clash Meta 图形客户端，导入订阅后选择规则模式即可作为加速器使用。</li><li><a href=\"#clients\">Android</a>：Clash Meta for Android 或同类开源应用，适合手机端梯子场景。</li><li><a href=\"#clients\">iOS</a>：Shadowrocket、Stash、Quantumult X 等，导入 Beryl 机场订阅后按策略分流。</li><li><a href=\"#clients\">路由器 / 其他</a>：支持订阅的 OpenWrt 或 Clash 内核设备可直接填写 URL，实现全家设备网络加速。</li></ul><p>Beryl 官网仅提供订阅与说明，客户端版权归原作者所有。下载后请核对商店来源，确保安全。本页不托管安装文件，避免与第三方打包混淆。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Beryl 是机场还是传统 VPN 客户端？</summary><p>Beryl 以机场订阅形式提供节点与流量，用户可在自己选择的 VPN 或代理客户端中导入使用。这样便于多设备、多系统统一管理，也方便随时更换客户端，官网职责是套餐、订阅与使用说明。</p></details><details><summary>如何在官网完成客户端下载与订阅导入？</summary><p>本站客户端下载章节列出了主流软件方向。下载安装后，将用户中心的订阅链接粘贴到客户端的订阅栏，点击更新即可看到 Beryl 节点。无需在本站直接托管安装包，以免来源不清。</p></details><details><summary>三个套餐该如何选择？流量用完怎么办？</summary><p>轻度使用选基础版；需要流媒体原生解锁和游戏线路选旗舰版；多人共享或高流量选团队版。月度流量用尽后当月加速会受限，可升级套餐或等待下月重置。年付价格按公示更优惠。</p></details><details><summary>Beryl 节点能否稳定用于视频与游戏？</summary><p>旗舰版强调全节点原生流媒体解锁与 IPLC 游戏优化，实际体验仍受当地网络与目标站点策略影响。遇到缓冲可更换同区域备用节点。线路会持续调整，但不承诺某一平台永久可用。</p></details><details><summary>设备数量超限或订阅泄露如何处理？</summary><p>同时在线设备数按套餐限制。若怀疑订阅被他人使用，可在用户中心重置订阅链接，旧链接立即失效。请勿将机场订阅发布到公开论坛或群组。</p></details><details><summary>如何确认 Beryl 官方身份？是否必须使用独立 App？</summary><p>请通过本官网获取套餐与公告。Beryl 目前以订阅加第三方客户端为主，不强制独立 App。任何索要额外远控权限或来路不明的所谓官方安装包都不可信，客户端下载请走正规商店。</p></details></section><div class=\"ad-box\">合作展示：精选网络工具与客户端教程导航 · <a href=\"#\">查看合作说明</a></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>Beryl 官方网站 · 网络加速与机场订阅服务</p><p>友情链接：<a href=\"#\">加速资源导航</a><a href=\"#\">开源客户端列表</a><a href=\"#\">使用规范说明</a></p><p><a href=\"#\">网站地图</a> · <a href=\"#intro\">返回简介</a></p><p>本页为静态说明页，购买与工单请通过站内用户中心完成。</p></footer>",
+          "hash": "8cbaf4d00e69a0972d19b37a08d4a63bf7b25aec3a64f161a35be85b38526f3e",
+          "seo": {
+            "title": "Beryl 官方网站 | VPN 机场订阅与网络加速客户端下载",
+            "keywords": "Beryl,Beryl VPN,Beryl机场,网络加速,梯子,加速器,客户端下载,官网,机场订阅,流媒体解锁,游戏加速",
+            "description": "Beryl 是提供机场订阅与 VPN 客户端支持的网络加速官网，含基础版、旗舰版与团队版套餐，适用于办公、流媒体与游戏场景，支持多端导入与官方说明下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "1y0870.cn",
+    "host": "p-fb0a730ef2.1y0870.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "1y0870.cn",
+      "url": "https://1y0870.cn/",
+      "label": "彩虹猫(NyanCat)",
+      "apex": "1y0870.cn",
+      "kind": null,
+      "identity": "fwsjtymby/page-ebfe11af9d9d00718a7ec6f7"
+    },
+    {
+      "host": "ciyuanlianjie.com",
+      "url": "https://ciyuanlianjie.com/",
+      "label": "Beryl",
+      "apex": "ciyuanlianjie.com",
+      "kind": null,
+      "identity": "arjmps/page-5f5ef81652dea73c89f818f2"
+    },
+    {
+      "host": "czkciir.cn",
+      "url": "https://czkciir.cn/",
+      "label": "Beryl",
+      "apex": "czkciir.cn",
+      "kind": null,
+      "identity": "qkhysdcbd/page-451406720f50348be003e887"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "723209cac778d6cd141d41465dcf7a65b3af86ca3e40f705dbfa03b0e5fd6605",
+    "sitemap.xml": "9e2d323776d903f8eebd85b45905f105e6c3408f716e3cf41364493c32d5c11b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c63a3d8481e3207293ca92808267947a7b74447146b9c7d9d03f86a703fe8ebd",
+    "robots.txt": "e365dc4c5d67669754565f563fd4a9d044f1b18b021580b310acb304be14b8d7",
+    "9ef7b7369d90958e70e34b2b4d3f621e.txt": "a1b8683a8a0ab239e7acdd526fe4abdef269d5fbc949383b835f6dd8ac883134"
+  },
+  "revision": "23948e2e6f16c8d9fe7631d71a1e50154bce61478821fb8e540937fa4de716ed"
+}
